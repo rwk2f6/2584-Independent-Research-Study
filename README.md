@@ -26,6 +26,4 @@ at the attached Programmer's Guide, which includes a User's Manual.
 
 Play 2584: https://codegym.cc/projects/apps/64229
 
-View Programmer's Guide: 
-
 2584 © 2021 by Ryan Kelly is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
